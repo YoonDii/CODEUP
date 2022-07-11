@@ -4,3 +4,7 @@ a = int(a)
 b = int(b)
 print (a)
 print (b)
+
+# 3 5 입력
+## 3
+## 5

@@ -2,3 +2,6 @@
 f = input()
 f = float(f)
 print(f)
+
+# 1.5 입력
+##1.5

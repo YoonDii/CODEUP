@@ -5,3 +5,9 @@ print(s[0])
 print(s[1])
 print(s[2])
 print(s[3])
+
+# love 입력
+## l
+## o
+## v
+## e

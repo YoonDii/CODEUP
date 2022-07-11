@@ -2,3 +2,6 @@
 n = input()
 n = int(n)
 print(n)
+
+# 5 입력
+## 5

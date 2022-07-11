@@ -3,3 +3,8 @@ f = input()
 print (f)
 print (f)
 print (f)
+
+# 1.5 입력
+## 1.5
+## 1.5
+## 1.5

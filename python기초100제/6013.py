@@ -3,3 +3,8 @@ a = input()
 b = input()
 print (b)
 print (a)
+
+# a = 3
+# b = 4 입력
+## 4
+## 3
